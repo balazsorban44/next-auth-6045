@@ -1,0 +1,19 @@
+{
+  "name": "dashsite-panel",
+  "description": "The solution for managing and billing servers",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "prettier": {
+    "semi": false
+  },
+  "dependencies": {
+    "next": "13.0.6",
+    "next-auth": "4.18.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
